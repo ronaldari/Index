@@ -1,0 +1,30 @@
+body {
+	background-color: limegreen;
+}
+
+
+
+h1 {
+
+	font-family: bold font;
+
+	font-size: 28px;
+	font-color: #00147;
+}
+h3 {
+	font-family: fantasy;
+	font-size: 20px;
+	color: yellowgreen;
+ }
+li{
+	font-family: monospace;
+	
+ }
+dt{
+	font-family: sans-serif;
+	
+ }
+dd{
+	font-family: static;
+	
+ }
